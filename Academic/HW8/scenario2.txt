@@ -1,0 +1,34 @@
+Enter the name of the bird file => bird2.txt
+bird2.txt
+Enter the name of the pig file => pig2.txt
+pig2.txt
+Enter the name of the barrier file => barrier2.txt
+barrier2.txt
+
+There are 3 birds:
+    Hawk: (100.0,800.0)
+    Eddie: (200.0,300.0)
+    Super Chicken: (400.0,90.0)
+
+There are 3 pigs:
+    Wilbur: (530.0,850.0)
+    Clarence: (700.0,400.0)
+    Noel: (600.0,468.0)
+
+There are 2 barriers:
+    Gingerbread: (300.0,75.0)
+    Picket: (110.0,300.0)
+
+Time 0: Hawk starts at (100.0,800.0)
+Time 57: Hawk at (556.0.458.0) pops Noel
+Time 57: Hawk at (556.0,458.0) has (dx, dy) = (4.0,-6.0)
+Time 131: Hawk at (852.0,14.0) has left the game
+Time 131: Eddie starts at (200.0,300.0)
+Time 225: Eddie at (510.2.817.0) pops Wilbur
+Time 225: Eddie at (510.2,817.0) has (dx, dy) = (1.6,5.5)
+Time 225: Eddie at (510.2,817.0) with speed 5.7 stops
+Time 225: Super Chicken starts at (400.0,90.0)
+Time 259: Super Chicken at (672.0.368.8) pops Clarence
+Time 259: Super Chicken at (672.0,368.8) has (dx, dy) = (4.0,8.2)
+Time 259: All pigs are popped. The birds win!
+

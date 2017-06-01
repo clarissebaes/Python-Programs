@@ -1,0 +1,30 @@
+File name => hw9_pokemon1.txt
+hw9_pokemon1.txt
+       Pichu: (10,10,5) Health: 2
+     Pikachu: (20,40,10) Health: 4
+      Raichu: (10,80,12) Health: 6
+
+Misty misses at (12, 25)
+Ash throws a pokeball to position (12, 85) hits Raichu:
+      Raichu: (10,80,12) Health: 4
+Misty misses at (24, 60)
+Ash misses at (100, 100)
+Misty throws a pokeball to position (15, 88) hits Raichu:
+      Raichu: (10,80,12) Health: 2
+Ash misses at (15, 25)
+Misty throws a pokeball to position (22, 82) hits Raichu:
+      Raichu: (10,80,12) Health: 1
+Ash misses at (50, 10)
+Misty misses at (30, 70)
+Ash throws a pokeball to position (20, 30) hits Pikachu:
+     Pikachu: (20,40,10) Health: 3
+Misty throws a pokeball to position (30, 45) hits Pikachu:
+     Pikachu: (20,40,10) Health: 2
+Ash throws a pokeball to position (10, 10) hits Pichu:
+       Pichu: (10,10,5) Health: 0
+Pichu is caught!
+
+Players run out of pokeballs, results:
+Ash caught 1 pokemon
+       Pichu
+Misty caught 0 pokemon

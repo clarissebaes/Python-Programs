@@ -1,0 +1,42 @@
+Enter the name of the bird file => bird3.txt
+bird3.txt
+Enter the name of the pig file => pig3.txt
+pig3.txt
+Enter the name of the barrier file => barrier3.txt
+barrier3.txt
+
+There are 4 birds:
+    Tweety: (10.0,12.0)
+    Hawk: (100.0,800.0)
+    Eddie: (200.0,300.0)
+    Super Chicken: (400.0,90.0)
+
+There are 3 pigs:
+    Wilbur: (530.0,850.0)
+    Clarence: (700.0,400.0)
+    Noel: (600.0,468.0)
+
+There are 2 barriers:
+    Gingerbread: (300.0,75.0)
+    Picket: (250.0,300.0)
+
+Time 0: Tweety starts at (10.0,12.0)
+Time 51: Tweety at (224.2.272.1) hits Picket, Strength 53.2
+Time 51: Tweety at (224.2,272.1) with speed 0.0 stops
+Time 51: Hawk starts at (100.0,800.0)
+Time 108: Hawk at (556.0.458.0) pops Noel
+Time 108: Hawk at (556.0,458.0) has (dx, dy) = (4.0,-6.0)
+Time 182: Hawk at (852.0,14.0) has left the game
+Time 182: Eddie starts at (200.0,300.0)
+Time 183: Eddie at (203.3.305.5) hits Picket, Strength 0.0
+Time 183: Picket crumbles
+Time 183: Eddie at (203.3,305.5) has (dx, dy) = (0.0,0.0)
+Time 183: Eddie at (203.3,305.5) with speed 0.0 stops
+Time 183: Super Chicken starts at (400.0,90.0)
+Time 217: Super Chicken at (672.0.368.8) pops Clarence
+Time 217: Super Chicken at (672.0,368.8) has (dx, dy) = (4.0,8.2)
+Time 292: Super Chicken at (972.0,983.8) has left the game
+Time 292: No more birds. The pigs win!
+Remaining pigs:
+Wilbur
+

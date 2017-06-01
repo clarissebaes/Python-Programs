@@ -1,0 +1,31 @@
+File name => hw9_pokemon2.txt
+hw9_pokemon2.txt
+    Caterpie: (25,10,7) Health: 3
+   Kricketot: (30,45,8) Health: 3
+      Pineco: (15,70,8) Health: 2
+
+Ash throws a pokeball to position (27, 17) hits Caterpie:
+    Caterpie: (25,10,7) Health: 2
+Misty throws a pokeball to position (30, 52) hits Kricketot:
+   Kricketot: (30,45,8) Health: 1
+Ash throws a pokeball to position (12, 78) hits Pineco:
+      Pineco: (15,70,8) Health: 1
+Misty misses at (24, 60)
+Ash misses at (100, 100)
+Brock throws a pokeball to position (25, 10) hits Caterpie:
+    Caterpie: (25,10,7) Health: 0
+Caterpie is caught!
+Brock throws a pokeball to position (30, 45) hits Kricketot:
+   Kricketot: (30,45,8) Health: 0
+Kricketot is caught!
+Brock throws a pokeball to position (15, 70) hits Pineco:
+      Pineco: (15,70,8) Health: 0
+Pineco is caught!
+
+All pokemon caught, results:
+Ash caught 0 pokemon
+Brock caught 3 pokemon
+    Caterpie
+   Kricketot
+      Pineco
+Misty caught 0 pokemon

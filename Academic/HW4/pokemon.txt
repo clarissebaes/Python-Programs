@@ -1,0 +1,4 @@
+0 Pikachu 2 3
+5 Bulbasaur 4 1
+7 Charizard 6 3
+10 Squirtle 2 4 

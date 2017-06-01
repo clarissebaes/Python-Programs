@@ -1,0 +1,34 @@
+Enter the name of the bird file => bird1.txt
+bird1.txt
+Enter the name of the pig file => pig1.txt
+pig1.txt
+Enter the name of the barrier file => barrier1.txt
+barrier1.txt
+
+There are 4 birds:
+    Tweetie: (720.0,553.0)
+    Fred: (50.0,40.0)
+    Big-Bird: (41.0,902.0)
+    Sam: (600.0,50.0)
+
+There are 2 pigs:
+    Wilbur: (300.0,75.0)
+    Porky: (880.0,125.0)
+
+There are 2 barriers:
+    Gingerbread: (300.0,25.0)
+    Picket: (250.0,300.0)
+
+Time 0: Tweetie starts at (720.0,553.0)
+Time 34: Tweetie at (992.0,519.0) has left the game
+Time 34: Fred starts at (50.0,40.0)
+Time 138: Fred at (258.0,976.0) has left the game
+Time 138: Big-Bird starts at (41.0,902.0)
+Time 225: Big-Bird at (215.0,32.0) has left the game
+Time 225: Sam starts at (600.0,50.0)
+Time 269: Sam at (28.0,314.0) has left the game
+Time 269: No more birds. The pigs win!
+Remaining pigs:
+Wilbur
+Porky
+

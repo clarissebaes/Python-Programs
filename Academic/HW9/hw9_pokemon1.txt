@@ -1,0 +1,16 @@
+3
+Pichu|10|10|5|2
+Pikachu|20|40|10|4
+Raichu|10|80|12|6
+Misty|12|25
+Ash|12|85
+Misty|24|60
+Ash|100|100
+Misty|15|88
+Ash|15|25
+Misty|22|82
+Ash|50|10
+Misty|30|70
+Ash|20|30
+Misty|30|45
+Ash|10|10

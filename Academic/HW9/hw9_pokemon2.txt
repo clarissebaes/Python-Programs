@@ -1,0 +1,13 @@
+3
+Caterpie|25|10|7|3
+Kricketot|30|45|8|3
+Pineco|15|70|8|2
+Ash|27|17
+Misty|30|52
+Ash|12|78
+Misty|24|60
+Ash|100|100
+Brock|25|10
+Brock|30|45
+Brock|15|70
+Ash|50|10
