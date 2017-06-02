@@ -1,0 +1,8 @@
+x = input('Please enter your first name:')
+y = input('Please enter your flast name:')
+z = max((len(x),(len(y)+1),5))
+print('*'*(z+8))
+print('*'*2,' '*((z-len('Hello,'))//2),'Hello,',' '*((z-len('Hello,'))//2),'*'*2)
+print('*'*2,' '*((z-len(x))//2),x,' '*((z-len(x))//2),'*'*2)
+print('*'*2,' '*((((z-len(y))//2))-1),y+'!',' '*((((z-len(y))//2))),'*'*2)
+print('*'*(z+8))
